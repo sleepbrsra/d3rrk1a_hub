@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Project 1",
+        "description": "Описание проекта 1",
+        "repo": "https://github.com/user/project1.git",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Project 2",
+        "description": "Описание проекта 2",
+        "repo": "https://github.com/user/project2.git",
+        "version": "1.0.0"
+    }
+]
